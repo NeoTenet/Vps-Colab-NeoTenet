@@ -1,3 +1,8 @@
+
+<img width="1672" height="941" alt="6353404a-8038-4a60-a78f-f9514800d556" src="https://github.com/user-attachments/assets/c6791da4-db36-4ce7-884f-51d121f8e507" />
+
+
+
 🚀 NeoTenet Persistent Workspace & Hermes Agent Deployment
 
 محیط ترمینال پرسرعت Ubuntu روی Google Colab همراه با سیستم پشتیبان‌گیری خودکار Google Drive و راهنمای کامل نصب و اجرای Hermes Agent
