@@ -8,7 +8,7 @@
 محیط ترمینال پرسرعت Ubuntu روی Google Colab همراه با سیستم پشتیبان‌گیری خودکار Google Drive و راهنمای کامل نصب و اجرای Hermes Agent
 
 
-
+https://github.com/NeoTenet/Vps-Colab-NeoTenet/blob/main/NeoTenet_Google_Colab.ipynb
 
 
 
